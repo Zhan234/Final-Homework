@@ -1,0 +1,6 @@
+5
+jump 3
+outbox
+inbox
+jumpifzero 2
+jump 3
